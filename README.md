@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitesnek&label=Profile%20views&color=0e75b6&style=flat" alt="whitesnek" /> </p>
-<img align="right" height="400px" src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" />
+<img align="right" height="300px" src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" />
 
 - 🔭 I’m currently working on **Youtube Clone**
 
