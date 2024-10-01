@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitesnek&label=Profile%20views&color=0e75b6&style=flat" alt="whitesnek" /> </p>
 <img align="right" height="300px" src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" />
 
-- 🔭 I’m currently working on **Youtube Clone**
+- 🔭 I’m currently working on **Gametube: A youtube for gamers**
 
-- 🌱 I’m currently learning **Redux, Express, MongoDB**
+- 🌱 I’m currently learning **GraphQL, Kubernetes and Redis**
 
 - 👨‍💻 All of my projects are available at [https://3-d-portfolio-sooty.vercel.app/](https://3-d-portfolio-sooty.vercel.app/)
 
-- 💬 Ask me about **react, express, mongodb, node**
+- 💬 Ask me about **MERN, Typescript, Go, Docker, AWS**
 
 - 📫 How to reach me **nikhilkr2604@gmail.com**
 
