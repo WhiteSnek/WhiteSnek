@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **GraphQL, Kubernetes and Redis**
 
-- 👨‍💻 All of my projects are available at [https://3-d-portfolio-sooty.vercel.app/](https://3-d-portfolio-sooty.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.nikhilkumar.xyz/](https://www.nikhilkumar.xyz/)
 
 - 💬 Ask me about **MERN, Typescript, Go, Docker, AWS**
 
