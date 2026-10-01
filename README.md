@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **GraphQL, Kubernetes and Redis**
 
-- 👨‍💻 All of my projects are available at [https://www.nikhilkumar.xyz/](https://www.nikhilkumar.xyz/)
+- 👨‍💻 All of my projects are available at [https://portfolio.whitesnek.xyz/](https://portfolio.whitesnek.xyz/)
 
-- 💬 Ask me about **MERN, Typescript, Go, Docker, AWS**
+- 💬 Ask me about **FullStack, DevOps**
 
 - 📫 How to reach me **nikhilkr2604@gmail.com**
 
